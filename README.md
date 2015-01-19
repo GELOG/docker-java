@@ -1,3 +1,14 @@
+# Java image
+
+## Build image
+
+git clone https://github.com/GELOG/docker-ubuntu-java.git
+cd docker-ubuntu-java/
+docker build --rm=true -t java:oraclejdk7 .
+
+
+# OLD DOC BELOW
+
 ## Java Dockerfile
 
 
