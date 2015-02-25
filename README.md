@@ -1,3 +1,6 @@
+# Supported tags and respective `Dockerfile` links
+- [`oraclejdk7u76`/Dockerfile](https://github.com/GELOG/docker-ubuntu-snap/tree/oraclejdk7u76/Dockerfile)
+
 # Java image
 
 ## Build image
