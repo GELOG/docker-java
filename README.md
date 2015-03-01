@@ -1,4 +1,5 @@
 # Supported tags and respective `Dockerfile` links
+- [`openjdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-snap/tree/openjdk7/Dockerfile)
 - [`oraclejdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-snap/tree/oraclejdk7/Dockerfile)
 
 # What is Java?
@@ -23,10 +24,10 @@ Docker images are the basis of containers. Images are read-only, while container
 * [Ubuntu 14.04 LTS](https://registry.hub.docker.com/_/ubuntu/)
 
 # How to use this image?
-    docker run --rm -ti gelog/java:oraclejdk7
+    docker run --rm -ti gelog/java:openjdk7
 
 #### Run `java`
-    docker run --rm -ti gelog/java:oraclejdk7 java
+    docker run --rm -ti gelog/java:openjdk7 java
 
 #### Run `javac`
-    docker run --rm -ti gelog/java:oraclejdk7 javac
+    docker run --rm -ti gelog/java:openjdk7 javac
