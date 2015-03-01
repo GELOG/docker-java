@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
-- [`openjdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-snap/tree/openjdk7/Dockerfile)
-- [`oraclejdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-snap/tree/oraclejdk7/Dockerfile)
+- [`openjdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-java/blob/openjdk7/Dockerfile)
+- [`oraclejdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-java/blob/oraclejdk7/Dockerfile)
 
 # What is Java?
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have Java installed, and more are created every day. Java is fast, secure, and reliable. From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is everywhere!
