@@ -5,7 +5,8 @@ FROM ubuntu:14.04.1
 RUN \
     DEBIAN_FRONTEND=noninteractive apt-get update && \
     DEBIAN_FRONTEND=noninteractive apt-get install -y \
-    openjdk-7-jre-headless && \
+    openjdk-7-jre-headless \
+    wget && \
     rm -rf /var/lib/apt/lists/*
 
 # Define commonly used JAVA_HOME variable
