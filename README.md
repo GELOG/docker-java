@@ -1,5 +1,5 @@
 # Supported tags and respective `Dockerfile` links
-- [`openjdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-java/blob/master/1.7u75/Dockerfile)
+- [`openjdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-java/blob/openjdk7/1.7u75/Dockerfile)
 - [`oraclejdk7`/Dockerfile](https://github.com/GELOG/docker-ubuntu-java/blob/oraclejdk7/Dockerfile)
 
 # What is Java?
